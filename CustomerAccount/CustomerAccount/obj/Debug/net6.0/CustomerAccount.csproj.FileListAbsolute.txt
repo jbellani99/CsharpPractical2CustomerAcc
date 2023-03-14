@@ -1,0 +1,15 @@
+C:\Users\jayesh\source\repos\CustomerAccount\CustomerAccount\bin\Debug\net6.0\CustomerAccount.exe
+C:\Users\jayesh\source\repos\CustomerAccount\CustomerAccount\bin\Debug\net6.0\CustomerAccount.deps.json
+C:\Users\jayesh\source\repos\CustomerAccount\CustomerAccount\bin\Debug\net6.0\CustomerAccount.runtimeconfig.json
+C:\Users\jayesh\source\repos\CustomerAccount\CustomerAccount\bin\Debug\net6.0\CustomerAccount.dll
+C:\Users\jayesh\source\repos\CustomerAccount\CustomerAccount\bin\Debug\net6.0\CustomerAccount.pdb
+C:\Users\jayesh\source\repos\CustomerAccount\CustomerAccount\obj\Debug\net6.0\CustomerAccount.csproj.AssemblyReference.cache
+C:\Users\jayesh\source\repos\CustomerAccount\CustomerAccount\obj\Debug\net6.0\CustomerAccount.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jayesh\source\repos\CustomerAccount\CustomerAccount\obj\Debug\net6.0\CustomerAccount.AssemblyInfoInputs.cache
+C:\Users\jayesh\source\repos\CustomerAccount\CustomerAccount\obj\Debug\net6.0\CustomerAccount.AssemblyInfo.cs
+C:\Users\jayesh\source\repos\CustomerAccount\CustomerAccount\obj\Debug\net6.0\CustomerAccount.csproj.CoreCompileInputs.cache
+C:\Users\jayesh\source\repos\CustomerAccount\CustomerAccount\obj\Debug\net6.0\CustomerAccount.dll
+C:\Users\jayesh\source\repos\CustomerAccount\CustomerAccount\obj\Debug\net6.0\refint\CustomerAccount.dll
+C:\Users\jayesh\source\repos\CustomerAccount\CustomerAccount\obj\Debug\net6.0\CustomerAccount.pdb
+C:\Users\jayesh\source\repos\CustomerAccount\CustomerAccount\obj\Debug\net6.0\CustomerAccount.genruntimeconfig.cache
+C:\Users\jayesh\source\repos\CustomerAccount\CustomerAccount\obj\Debug\net6.0\ref\CustomerAccount.dll
